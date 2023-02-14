@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaCalculadora", "Prac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaPOO", "PracticaPOO\PracticaPOO.csproj", "{DCBD7ECC-FBA2-42D4-A03A-D220F8A833DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaPOO2", "PracticaPOO2\PracticaPOO2.csproj", "{8E964D1E-7332-461C-B9A6-3955C9F62748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaPOO3", "PracticaPOO3\PracticaPOO3.csproj", "{3E3F7E7D-36C3-4D73-BA1A-1A86B223D914}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{DCBD7ECC-FBA2-42D4-A03A-D220F8A833DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCBD7ECC-FBA2-42D4-A03A-D220F8A833DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCBD7ECC-FBA2-42D4-A03A-D220F8A833DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E964D1E-7332-461C-B9A6-3955C9F62748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E964D1E-7332-461C-B9A6-3955C9F62748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E964D1E-7332-461C-B9A6-3955C9F62748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E964D1E-7332-461C-B9A6-3955C9F62748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3F7E7D-36C3-4D73-BA1A-1A86B223D914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3F7E7D-36C3-4D73-BA1A-1A86B223D914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3F7E7D-36C3-4D73-BA1A-1A86B223D914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3F7E7D-36C3-4D73-BA1A-1A86B223D914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
